@@ -1,4 +1,5 @@
 ## Advanced Lane Finding Project ## 
+
 The Goal of this Project is to write a software pipeline to identify the lane boundaries in a video from a front-facing camera on a car. The camera calibration images, test road images, and project videos are available in the project repository.
 ---
 
@@ -109,8 +110,6 @@ The code for this step is contained in `21 code cell` of the [`IPython notebook`
 ### Pipeline (video)
 
 #### Final video output. The pipeline performs reasonably well on the entire project video.
-
-Here's a [link to my video result](./project_video_out.mp4)
 
 You can see the final vidoe output on Youtube: [![Line detection](./img/video.jpeg)](https://youtu.be/fWoTk6PVoFQ "Video example - Click to Watch!")
 
